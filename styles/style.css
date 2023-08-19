@@ -63,7 +63,7 @@ footer .content .top {
   color: #fff;
   font-size: 21px;
   text-decoration: none;
-  transition: all 0.4s ease;
+  transition: all 0.5s ease;
 }
 
 .top .media-icons a:nth-child(1) {
@@ -191,7 +191,7 @@ footer .content .link-boxes .box {
   margin: 4px 0;
   opacity: 0.8;
   cursor: pointer;
-  transition: all 0.4s ease;
+  transition: all 0.5s ease;
 }
 
 .input-box input[type="button"]:hover {
